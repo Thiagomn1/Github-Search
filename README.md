@@ -1,6 +1,6 @@
 # Github Search
 
-Interface developed using React that allows the user to search for a specific github profile and view their stats and latest public repositories.
+React application that allows the user to search for a specific github profile, view their stats and latest public repositories.
 
 # ⚙ Usage
 
