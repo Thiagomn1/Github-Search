@@ -34,6 +34,7 @@ function SingleUser() {
     public_gists,
     hireable
   } = User
+  
 
   if(Loading) {
     return <Spinner />
